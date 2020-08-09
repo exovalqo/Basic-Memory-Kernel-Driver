@@ -1,0 +1,36 @@
+﻿  Building 'KernelPracticeWDM' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\KernelPracticeWDM.inf
+  Stamping [Version] section with DriverVer=08/08/2020,12.48.54.510
+  Memory.c
+C:\Users\pudy1\source\repos\KernelPracticeWDM\KernelPracticeWDM\ntos.h(1012,23): warning C4214: nonstandard extension used: bit field types other than int
+C:\Users\pudy1\source\repos\KernelPracticeWDM\KernelPracticeWDM\ntos.h(1013,20): warning C4214: nonstandard extension used: bit field types other than int
+C:\Users\pudy1\source\repos\KernelPracticeWDM\KernelPracticeWDM\ntos.h(1014,19): warning C4214: nonstandard extension used: bit field types other than int
+C:\Users\pudy1\source\repos\KernelPracticeWDM\KernelPracticeWDM\ntos.h(1015,20): warning C4214: nonstandard extension used: bit field types other than int
+C:\Users\pudy1\source\repos\KernelPracticeWDM\KernelPracticeWDM\ntos.h(1016,23): warning C4214: nonstandard extension used: bit field types other than int
+C:\Users\pudy1\source\repos\KernelPracticeWDM\KernelPracticeWDM\ntos.h(1017,19): warning C4214: nonstandard extension used: bit field types other than int
+C:\Users\pudy1\source\repos\KernelPracticeWDM\KernelPracticeWDM\ntos.h(1018,26): warning C4214: nonstandard extension used: bit field types other than int
+C:\Users\pudy1\source\repos\KernelPracticeWDM\KernelPracticeWDM\ntos.h(1019,27): warning C4214: nonstandard extension used: bit field types other than int
+C:\Users\pudy1\source\repos\KernelPracticeWDM\KernelPracticeWDM\ntos.h(1020,27): warning C4214: nonstandard extension used: bit field types other than int
+C:\Users\pudy1\source\repos\KernelPracticeWDM\KernelPracticeWDM\ntos.h(1021,22): warning C4214: nonstandard extension used: bit field types other than int
+C:\Users\pudy1\source\repos\KernelPracticeWDM\KernelPracticeWDM\ntos.h(1147,2): warning C4273: 'ZwAllocateVirtualMemory': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\ntifs.h(28411,1): message : see previous definition of 'ZwAllocateVirtualMemory'
+C:\Users\pudy1\source\repos\KernelPracticeWDM\KernelPracticeWDM\ntos.h(1153,2): warning C4273: 'ZwFreeVirtualMemory': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\ntifs.h(28446,1): message : see previous definition of 'ZwFreeVirtualMemory'
+  KernelPracticeWDM.vcxproj -> C:\Users\pudy1\source\repos\KernelPracticeWDM\x64\Debug\KernelPracticeWDM.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\pudy1\source\repos\KernelPracticeWDM\x64\Debug\KernelPracticeWDM.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\pudy1\source\repos\KernelPracticeWDM\x64\Debug\KernelPracticeWDM\kernelpracticewdm.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\pudy1\source\repos\KernelPracticeWDM\x64\Debug\KernelPracticeWDM\kernelpracticewdm.cat
+  
